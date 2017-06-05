@@ -4,18 +4,60 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 
 ## Prontos e já usados
 
-#### Dados das receitas, licitações e despesas de municípios e estado da PB
+#### Receitas, licitações e despesas de municípios e estado da PB
 
-Info |  |
- --- | -|
+?    | ! |
+ --- | --|
 *O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
 *Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. **Link para o MER**  |
 *Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois o TCE considerou algumas confidenciais. |
-*Projetos que já usam* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
+*Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
 
 ---
+
+### Presenças, votações e votos dos deputados federais na câmara
+
+?    | ! |
+ --- | --|
+*O que é* | Dados das presenças, das propostas votadas e dos votos individuais dos deputados federais. |
+*Formato* | Em xml através de uma API da câmara ou em csvs [neste repositório](https://github.com/nazareno/dados-da-camara-federal). |
+*Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
+*Projetos usando* | [House of Cunha](http://www.houseofcunha.com.br)  |
+
+### Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais
+
+?    | ! |
+ --- | --|
+*O que é* | Dados das presenças, das propostas votadas e dos votos individuais dos deputados federais. |
+*Formato* | A câmara disponibiliza arquivos XML, JSON, CSV e XLSX compactados para download contendo os dados relativos aos gastos parlamentares registrados na Câmara dos Deputados. |
+*Url*     | Direto no [site da câmara](http://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/dados-abertos-cota-parlamentar) |
+*Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
+*Projetos usando* | [House of Cunha](http://www.houseofcunha.com.br), [Serenata de Amor](http://serenatadeamor.org) |
+
+---
+
+### Dados das empresas que prestaram serviço ao poder público na PB
+
+?    | ! |
+ --- | --|
+*O que é* | CEP, nome e funções no Cadastro Nacional de Atividade Empresarial para cada empresa que prestou algum serviço ou vendeu mercadoria ao poder público na PB  |
+*Formato* | CSV |
+*Url*     | Em um HD externo com o pessoal do MPPB no evento.  |
+*Dicas*   | Temos construtoras vendendo remédios? |
+*Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/) |
+
 
 
 ## Prontos mas ainda não usados
 
 ## Possíveis e interessantes
+
+## Template para adicionar um novo
+
+     ?    | ! |
+      --- | --|
+*O que é* |   |
+*Formato* |   |
+*Url*     |   |
+*Dicas*   |   |
+*Projetos usando* |  |
