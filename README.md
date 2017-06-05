@@ -24,11 +24,13 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
 *Projetos usando* | [House of Cunha](http://www.houseofcunha.com.br)  |
 
+---
+
 ### Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais
 
 ?    | ! |
  --- | --|
-*O que é* | Dados das presenças, das propostas votadas e dos votos individuais dos deputados federais. |
+*O que é* | Cada deputado tem cerca de R$50 mil / mês para gastar em sua atividade parlamentar. A câmara abriu os dados de todos esses gastos para que a população fiscalize. |
 *Formato* | A câmara disponibiliza arquivos XML, JSON, CSV e XLSX compactados para download contendo os dados relativos aos gastos parlamentares registrados na Câmara dos Deputados. |
 *Url*     | Direto no [site da câmara](http://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/dados-abertos-cota-parlamentar) |
 *Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
