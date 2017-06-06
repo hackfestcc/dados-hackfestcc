@@ -48,8 +48,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/) |
 
 ### Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016
-     ?    | ! |
-      --- | --|
+?    | !  |
+ --- | -- |
 *O que é* | Detalhes demográficos, de bens, doações e gastos dos candidatos de 2016 e das eleições anteriores |
 *Formato* | CSV |
 *Url*     | http://www.tse.jus.br/hotSites/pesquisas-eleitorais/candidatos_anos/2016.html  |
