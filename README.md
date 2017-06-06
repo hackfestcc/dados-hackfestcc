@@ -39,7 +39,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Dados das empresas que prestaram serviço ao poder público na PB
-
 ?    | ! |
  --- | --|
 *O que é* | CEP, nome e funções no Cadastro Nacional de Atividade Empresarial para cada empresa que prestou algum serviço ou vendeu mercadoria ao poder público na PB  |
@@ -48,14 +47,27 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Dicas*   | Temos construtoras vendendo remédios? |
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/) |
 
+### Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016
+     ?    | ! |
+      --- | --|
+*O que é* | Detalhes demográficos, de bens, doações e gastos dos candidatos de 2016 e das eleições anteriores |
+*Formato* | CSV |
+*Url*     | http://www.tse.jus.br/hotSites/pesquisas-eleitorais/candidatos_anos/2016.html  |
+*Dicas*   | Há um dicionário dos dados em pdf. O formato mudou um pouco ao longo dos anos, mas eles procuram manter a compatibilidade. Não é simples cruzar os nomes dos candidatos com os dos parlamentares na API da câmara.  |
+*Projetos usando* | [De onde vem o dinheiro nas eleições de 2016?](https://nazareno.shinyapps.io/minha-cidade/), [Nossos vereadores, Campina Grande](http://www.vereadorescg.cc) |
 
 
 ## Prontos mas ainda não usados
 
+
 ## Possíveis e interessantes
 
-## Template para adicionar um novo
+## Contribuindo
 
+Adoramos contribuições. Para adicionar um novo dado, copie o template abaixo, edite a seção e mande um pull request.
+
+```
+### Título
      ?    | ! |
       --- | --|
 *O que é* |   |
@@ -63,3 +75,4 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Url*     |   |
 *Dicas*   |   |
 *Projetos usando* |  |
+```
