@@ -9,7 +9,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ?    | ! |
  --- | --|
 *O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
-*Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. **Link para o MER**  |
+*Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. [O MER do BD é esse](etc/modelo-entidade-relacionamento-sagres.pdf)  |
 *Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois o TCE considerou algumas confidenciais. Caso você vá  |
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
 
@@ -78,7 +78,26 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Projetos usando* | [As Diferentonas](https://github.com/nazareno/diferentonas-server/), [Na emenda dos deputados](https://github.com/CelioBarros/NaEmendaDeputado), Quase todos [os apps que participaram do hackathon do MJ](https://github.com/LabPi) |
 
 
-## Prontos mas ainda não usados
+### Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB
+?    | ! |
+ --- | --|
+*O que é* | Lista dos gestores que tiveram sua prestação de contas anual rejeitada pelo Tribunal de Contas do Estado, que fiscaliza as contas dos municípios e do Estado da PB. |
+*Formato* | csv |
+*Url*     | [Neste link](etc/contas-irregulares-segundo-TCE.csv) |
+*Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
+*Projetos usando* |  |
+
+
+## Aparentemente prontos, mas não foram usados por nós
+
+### Dados abertos da prefeitura de João Pessoa
+?    | ! |
+ --- | --|
+*O que é* | Dados sobre pessoal, licitações, convênios, verba de publicidade e despesas/receitas da prefeitura. |
+*Formato* | csvs ou sql |
+*Url*     | http://transparencia.joaopessoa.pb.gov.br/download  |
+*Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
+*Projetos usando* | Nenhum ainda. |
 
 
 ## Possíveis e interessantes
