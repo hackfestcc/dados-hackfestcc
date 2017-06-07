@@ -10,7 +10,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
  --- | --|
 *O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
 *Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. **Link para o MER**  |
-*Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois o TCE considerou algumas confidenciais. |
+*Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois o TCE considerou algumas confidenciais. Caso você vá  |
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
 
 ---
@@ -23,6 +23,18 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Formato* | Em xml através de uma API da câmara ou em csvs [neste repositório](https://github.com/nazareno/dados-da-camara-federal). |
 *Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
 *Projetos usando* | [House of Cunha](http://www.houseofcunha.com.br)  |
+
+---
+
+### Discursos dos deputados federais na câmara
+
+?    | ! |
+ --- | --|
+*O que é* | Dados dos discursos de nossos representantes da câmara. |
+*Formato* | Em xml através de uma API da câmara |
+*Url*     | [Na API de dados abertos da câmara](http://www2.camara.leg.br/transparencia/dados-abertos/dados-abertos-legislativo/webservices/sessoesreunioes-2/obterinteiroteordiscursosplenario) |
+*Dicas*   | Às vezes os exemplos da API não funcionam tal qual estão na página, mas mudando um pouco dá certo.  |
+*Projetos usando* | [Retórica Parlamentar](http://retorica.labhackercd.net/), [Matéria do NEXO](http://cidadania20.com/projectos/deputados-federais-em-plenario/) |
 
 ---
 
