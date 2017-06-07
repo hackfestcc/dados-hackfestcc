@@ -148,8 +148,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Dados da câmara e de outras fontes, incluindo geolocalização das empresas onde parlamentares gastaram, seus parentes, seus assessores e mais coisa que parece bem legal, sistematizado pelo pessoal da Operação Serenata de Amor  |
 *Formato* | csvs compactados como xz  |
 *Url*     | https://github.com/datasciencebr/serenata-toolbox/ , também temos os dados no evento no hd externo chamado nuvem |
@@ -159,8 +159,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Dados abertos do governo do Estado da PB
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Dados sobre receitas, despesas por tipo, diárias, passagens, licitações, dispensas de licitações, contratos,  aditivos e convênios do Estado da PB |
 *Formato* | csv |
 *Url*     | http://dados.pb.gov.br/ |
@@ -171,8 +171,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ## Possíveis e interessantes
 
 ### Atividade dos vereadores em João Pessoa, PB
-     ?    | ! |
-      --- | --|
+    ?    | ! |
+    --- | --|
 *O que é* | O sistema de registro de proposituras da Câmara Municipal pode ser vasculhado e acompanhado por um crawler.  |
 *Formato* | Hoje em HTML, mas em um formato simpático a crawlers.  |
 *Url*     | [Este](http://177.200.32.195:9673/sapl/relatorios_administrativos/historicoTramitacoes/historicoTramitacoes_mostrar_proc?txt_dat_inicio_periodo=11%2F11%2F2016&txt_dat_fim_periodo=06%2F06%2F2017&lst_cod_unid_tram_dest=0&lst_tip_materia=0&lst_status=0&btn_materia_pesquisar=Pesquisar) pode ser um ponto de partida para o crawling.  |
