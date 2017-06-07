@@ -2,6 +2,8 @@
 
 Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viável usar em edições passadas do Hackfest Contra a Corrupção.
 
+---
+
 ## Prontos e já usados
 
 #### Receitas, licitações e despesas de municípios e estado da PB
@@ -88,6 +90,18 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
 *Projetos usando* |  |
 
+---
+
+### Proposituras da Câmara Municipal de Campina Grande, PB
+     ?    | ! |
+      --- | --|
+*O que é* | Dados sobre proposituras dos vereadores, incluindo o que foi proposto, a categoria da propositura, o tema e alguns dados demográficos dos vereadores.  |
+*Formato* | Banco postgres + crawler |
+*Url*     | Os dados estão [nesse repo](https://github.com/augustoqm/cg-insights-data) e o crawler [nesse outro](https://github.com/augustoqm/cg-insights-data-gen)  |
+*Dicas*   | Os dados não são abertos, mas estão públicos. O crawler e abordagem devem ser facilmente adaptáveis para outras câmaras que usem um software parecido de controle das proposituras. O de CG tem [essa cara](http://187.115.174.90:8080/ScanLexWeb/).  |
+*Projetos usando* | www.vereadorescg.cc |
+
+---
 
 ## Aparentemente prontos, mas não foram usados por nós
 
@@ -141,6 +155,18 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Url*     | https://github.com/datasciencebr/serenata-toolbox/ , também temos os dados no evento no hd externo chamado nuvem |
 *Dicas*   |   |
 *Projetos usando* | https://serenatadeamor.org |
+
+---
+
+### Dados abertos do governo do Estado da PB
+     ?    | ! |
+      --- | --|
+*O que é* | Dados sobre receitas, despesas por tipo, diárias, passagens, licitações, dispensas de licitações, contratos,  aditivos e convênios do Estado da PB |
+*Formato* | csv |
+*Url*     | http://dados.pb.gov.br/ |
+*Dicas*   |   |
+*Projetos usando* |  |
+
 
 ## Possíveis e interessantes
 
