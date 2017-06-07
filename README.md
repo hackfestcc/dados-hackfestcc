@@ -5,7 +5,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ## Prontos e já usados
 
 #### Receitas, licitações e despesas de municípios e estado da PB
-
 ?    | ! |
  --- | --|
 *O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
@@ -16,7 +15,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Presenças, votações e votos dos deputados federais na câmara
-
 ?    | ! |
  --- | --|
 *O que é* | Dados das presenças, das propostas votadas e dos votos individuais dos deputados federais. |
@@ -27,7 +25,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Discursos dos deputados federais na câmara
-
 ?    | ! |
  --- | --|
 *O que é* | Dados dos discursos de nossos representantes da câmara. |
@@ -39,7 +36,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais
-
 ?    | ! |
  --- | --|
 *O que é* | Cada deputado tem cerca de R$50 mil / mês para gastar em sua atividade parlamentar. A câmara abriu os dados de todos esses gastos para que a população fiscalize. |
@@ -59,6 +55,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Dicas*   | Temos construtoras vendendo remédios? |
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/) |
 
+---
+
 ### Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016
 ?    | !  |
  --- | -- |
@@ -67,6 +65,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Url*     | http://www.tse.jus.br/hotSites/pesquisas-eleitorais/candidatos_anos/2016.html  |
 *Dicas*   | Há um dicionário dos dados em pdf. O formato mudou um pouco ao longo dos anos, mas eles procuram manter a compatibilidade. Não é simples cruzar os nomes dos candidatos com os dos parlamentares na API da câmara.  |
 *Projetos usando* | [De onde vem o dinheiro nas eleições de 2016?](https://nazareno.shinyapps.io/minha-cidade/), [Nossos vereadores, Campina Grande](http://www.vereadorescg.cc) |
+
+---
 
 ### SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios
 ?    | !  |
@@ -77,6 +77,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Dicas*   | Há um MER na página. Os csvs são atualizados diariamente. Esses csvs são mais completos que a API de convênios. Prestação de contas rejeitada é sinal de que o convênio não foi executado corretamente. Deputados alocam verbas via emendas parlamentares que acabam sendo executadas como convênios. |
 *Projetos usando* | [As Diferentonas](https://github.com/nazareno/diferentonas-server/), [Na emenda dos deputados](https://github.com/CelioBarros/NaEmendaDeputado), Quase todos [os apps que participaram do hackathon do MJ](https://github.com/LabPi) |
 
+---
 
 ### Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB
 ?    | ! |
@@ -97,8 +98,49 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Formato* | csvs ou sql |
 *Url*     | http://transparencia.joaopessoa.pb.gov.br/download  |
 *Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
-*Projetos usando* | Nenhum ainda. |
+*Projetos usando* |  |
 
+---
+
+### Cadastro de Empresas Inidôneas e Suspensas (CEIS)
+?    | ! |
+ --- | --|
+*O que é* | Empresas e pessoas físicas que sofreram sanções pelos órgãos e entidades da administração pública das diversas esferas federativas. |
+*Formato* | csv |
+*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CEIS |
+*Dicas*   |  |
+*Projetos usando* |  |
+
+---
+
+### Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)
+?    | ! |
+ --- | --|
+*O que é* | Entidades privadas sem fins lucrativos que estão impedidas de celebrar convênios, contratos de repasse ou termos de parceria com a administração pública federal |
+*Formato* | csv |
+*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CEPIM |
+*Dicas*   |  |
+*Projetos usando* |  |
+
+### Cadastro Nacional de Empresas Punidas (CNEP)
+?    | ! |
+ --- | --|
+*O que é* | Empresas que sofreram sanções previstas pela Lei nº 12.846/2013 (Lei Anticorrupção). As informações abrangem órgãos e entidades da administração pública das esferas federal, estadual e municipal. |
+*Formato* | csv |
+*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CNEP |
+*Dicas*   |  |
+*Projetos usando* |  |
+
+---
+
+### Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos
+     ?    | ! |
+      --- | --|
+*O que é* | Dados da câmara e de outras fontes, incluindo geolocalização das empresas onde parlamentares gastaram, seus parentes, seus assessores e mais coisa que parece bem legal, sistematizado pelo pessoal da Operação Serenata de Amor  |
+*Formato* | csvs compactados como xz  |
+*Url*     | https://github.com/datasciencebr/serenata-toolbox/ , também temos os dados no evento no hd externo chamado nuvem |
+*Dicas*   |   |
+*Projetos usando* | https://serenatadeamor.org |
 
 ## Possíveis e interessantes
 
