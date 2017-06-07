@@ -171,8 +171,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ## Possíveis e interessantes
 
 ### Atividade dos vereadores em João Pessoa, PB
-    ?    | ! |
-    --- | --|
+?    | ! |
+ --- | --|
 *O que é* | O sistema de registro de proposituras da Câmara Municipal pode ser vasculhado e acompanhado por um crawler.  |
 *Formato* | Hoje em HTML, mas em um formato simpático a crawlers.  |
 *Url*     | [Este](http://177.200.32.195:9673/sapl/relatorios_administrativos/historicoTramitacoes/historicoTramitacoes_mostrar_proc?txt_dat_inicio_periodo=11%2F11%2F2016&txt_dat_fim_periodo=06%2F06%2F2017&lst_cod_unid_tram_dest=0&lst_tip_materia=0&lst_status=0&btn_materia_pesquisar=Pesquisar) pode ser um ponto de partida para o crawling.  |
