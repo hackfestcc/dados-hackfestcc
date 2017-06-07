@@ -37,9 +37,31 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
 *Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. [O MER do BD é esse](etc/modelo-entidade-relacionamento-sagres.pdf)  |
 *Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois algumas o TCE classifica como sensíveis. |
+*Acesso*   | Ssh: hackfest@150.165.85.32 -p 22007, Mysql: , Database: sagres |
 *Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
 
 ---
+
+#### Localização de empresas (CNPJ e CEP)
+?    | ! |
+ --- | --|
+*O que é* | Dados sobre localizaçes de empresas participantes de licitações públicas. |
+*Formato* | Um banco MySQL no ar disponível para o hackfest (Variáveis: nu_CPFCNPJ, nu_CEP)  |
+*Acesso*   | Ssh: hackfest@150.165.85.32 -p 22007, Mysql:  , Database: utils |
+*Projetos usando* | [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
+
+---
+
+#### Informações Municípios da Paraíba
+?    | ! |
+ --- | --|
+*O que é* | Dados sobre indicadores de educação, alguns indicadores socio-demográficos, IDH, dentre outros. |
+*Formato* | Um banco MySQL no ar disponível para o hackfest (Variáveis: nu_CPFCNPJ, nu_CEP)  |
+*Acesso*   | Ssh: hackfest@150.165.85.32 -p 22007, Mysql:  , Database: municipios |
+*Projetos usando* | [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
+
+---
+
 
 ### Presenças, votações e votos dos deputados federais na câmara
 ?    | ! |
