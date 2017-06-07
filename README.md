@@ -2,6 +2,31 @@
 
 Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viável usar em edições passadas do Hackfest Contra a Corrupção.
 
+<!-- toc -->
+
+- [Prontos e já usados](#prontos-e-ja-usados)
+    + [Receitas, licitações e despesas de municípios e estado da PB](#receitas-licitacoes-e-despesas-de-municipios-e-estado-da-pb)
+  * [Presenças, votações e votos dos deputados federais na câmara](#presencas-votacoes-e-votos-dos-deputados-federais-na-camara)
+  * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-camara)
+  * [Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais](#gastos-da-cota-para-exercicio-da-atividade-parlamentar-dos-deputados-federais)
+  * [Dados das empresas que prestaram serviço ao poder público na PB](#dados-das-empresas-que-prestaram-servico-ao-poder-publico-na-pb)
+  * [Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016](#candidatos-seus-bens-e-as-doacoes-que-eles-receberam-nas-eleicoes-de-2012-2014-e-2016)
+  * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municipios-e-estados-e-universidades-institutos--via-convenios)
+  * [Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB](#prefeitos-da-pb-com-contas-julgadas-irregulares-entre-2008-e-2016-pelo-tce-pb)
+  * [Proposituras da Câmara Municipal de Campina Grande, PB](#proposituras-da-camara-municipal-de-campina-grande-pb)
+- [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-nao-foram-usados-por-nos)
+  * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joao-pessoa)
+  * [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidoneas-e-suspensas-ceis)
+  * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
+  * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
+  * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
+  * [Dados abertos do governo do Estado da PB](#dados-abertos-do-governo-do-estado-da-pb)
+- [Possíveis e interessantes](#possiveis-e-interessantes)
+  * [Atividade dos vereadores em João Pessoa, PB](#atividade-dos-vereadores-em-joao-pessoa-pb)
+- [Contribuindo](#contribuindo)
+
+<!-- tocstop -->
+
 ---
 
 ## Prontos e já usados
