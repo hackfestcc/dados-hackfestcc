@@ -16,6 +16,14 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
   * [Proposituras da Câmara Municipal de Campina Grande, PB](#proposituras-da-camara-municipal-de-campina-grande-pb)
 - [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-nao-foram-usados-por-nos)
   * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joao-pessoa)
+  * [Despesas – Transferências para Estados, Municípios ou entidades privadas – Portal da Transparência](#despesas---transferencias-para-estados--municipios-ou-entidades-privadas---portal-da-transparencia)
+  * [Despesas – Gastos Diretos do Governo Federal – Portal da Transparência](#despesas---gastos-diretos-do-governo-federal---portal-da-transparencia)
+  * [Servidores Civis e Militares do Executivo Federal](#servidores-civis-e-militares-do-executivo-federal)
+  * [Dirigentes de Empresas](#dirigentes-de-empresas)
+  * [Transferências - Programas Sociais - Bolsa Família](#transferencias---programas-sociais---bolsa-familia)
+  * [Pedidos e Respostas do e-SIC](#pedidos-e-respostas-do-e-sic)
+  * [Webservice do e-OUV](#webservice-do-e-ouv)
+  * [Relatórios da CGU](#relatorios-da-cgu)
   * [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidoneas-e-suspensas-ceis)
   * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
   * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
@@ -138,6 +146,94 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Url*     | http://transparencia.joaopessoa.pb.gov.br/download  |
 *Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
 *Projetos usando* |  |
+
+---
+
+### Despesas – Transferências para Estados, Municípios ou entidades privadas – Portal da Transparência
+     ?    | ! |
+      --- | --|
+*O que é* | Transferências de recursos federais, constitucionais, legais ou voluntárias, para estados, municípios, Distrito Federal, instituições privadas com e sem fins lucrativos e ao exterior, realizados pelos órgãos e entidades da Administração Pública Federal, que executam as despesas pelo Sistema Integrado de Administração Financeira do Governo Federal (Siafi). |
+*Formato* | CSV |
+*Url*     | http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=Transferencias#meses04|
+*Dicas*   | Dados atualizados mensalmente.   |
+*Projetos usando* | Para onde foi o meu dinheiro? |
+
+---
+
+### Despesas – Gastos Diretos do Governo Federal – Portal da Transparência
+     ?    | ! |
+      --- | --|
+*O que é* | Pagamentos para aquisição e contratação de obras e compras governamentais, dentre outros, realizados pelos órgãos e entidades da Administração Pública Federal, que executam as despesas pelo Sistema Integrado de Administração Financeira do Governo Federal (Siafi). Dados disponibilizados no Portal da Transparência |
+*Formato* | CSV |
+*Url*     | http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=GastosDiretos |
+*Dicas*   | Dados atualizados mensalmente.   |
+*Projetos usando* | Para onde foi o meu dinheiro? |
+
+---
+
+### Servidores Civis e Militares do Executivo Federal
+     ?    | ! |
+      --- | --|
+*O que é* | Informações sobre cargo, função, situação funcional e remuneração dos servidores civis e militares, bem como dos agentes públicos do Poder Executivo Federal. |
+*Formato* | CSV |
+*Url*     | http://www.portaltransparencia.gov.br/downloads/servidores.asp |
+*Dicas*   | Atualização mensal |
+*Projetos usando* |  |
+
+---
+
+### Dirigentes de Empresas
+     ?    | ! |
+      --- | --|
+*O que é* | Informações sobre ocupantes de cargos de gerência e direção em empresas estatais e subsidiárias. |
+*Formato* | CSV |
+*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=Dirigentes |
+*Dicas*   | Atualização mensal |
+*Projetos usando* |  |
+
+---
+
+### Transferências Programas Sociais Bolsa Família
+     ?    | ! |
+      --- | --|
+*O que é* | Informações sobre as transferências de recursos federais diretamente repassados a cidadãos, referentes ao pagamento do Bolsa Família, realizadas pelo Ministério do Desenvolvimento Social, por meio da Caixa Econômica Federal. |
+*Formato* | CSV |
+*Url*     | http://www.portaldatransparencia.gov.br/downloads/mensal.asp?c=BolsaFamiliaFolhaPagamento |
+*Dicas*   | Atualização mensal |
+*Projetos usando* |  |
+
+---
+
+### Pedidos e Respostas do e-SIC
+     ?    | ! |
+      --- | --|
+*O que é* | Base de dados dos pedidos e respostas realizados no Poder Executivo Federal, por meio do e-SIC, com base na Lei de Acesso à Informação.|
+*Formato* | CSV e XML |
+*Url*     | http://www.consultaesic.cgu.gov.br/busca/_layouts/15/DownloadPedidos/DownloadDados.aspx |
+*Dicas*   | O arquivo Pedidos contém dados sobre as solicitações, incluindo o conteúdo dos pedidos e respostas. Já o arquivo Recursos fornece o conteúdo, dentre outros dados, dos recursos apresentados pelo solicitante quando ele entende que não foram concedidas a informação ou o motivo para a negativa. O arquivo solicitante fornece informações individualizadas, exceto nome, sobre os autores dos pedidos. Atualização diária |
+*Projetos usando* | Achados e Pedidos |
+
+---
+
+### Webservice do e-OUV
+     ?    | ! |
+      --- | --|
+*O que é* |Webservice para registro e consulta de manifestações de ouvidoria (denúncias, reclamações, sugestões etc.) direcionadas às ouvidorias do governo federal, incluindo a Ouvidoria-Geral da União da CGU.|
+*Formato* | |
+*Url*     | [Neste link](etc/e-ouv---documentacao-webservices.docx) |
+*Dicas*   |O documento disponível no link acima explica como acessar os serviços e conectar seu aplicativo ao e-OUV. Por meio do serviço, um aplicativo para detectar irregularidades em obras federais pode, por exemplo, registrar diretamente uma denúncia para a CGU. Importante: o e-OUV permite o registro apenas de manifestações para órgãos do Poder Executivo Federal. Assim, se a obra ou serviço for realizado apenas com recursos estaduais, por exemplo, a denúncia deve ser encaminhada a órgãos estaduais como ouvidoria do Governo do Estado, Tribunal de Contas ou Ministério Público estadual.|
+*Projetos usando* | Reclame Aqui |
+
+---
+
+### Relatórios da CGU
+     ?    | ! |
+      --- | --|
+*O que é* | Relatórios de fiscalização em estados e municípios, auditorias anuais de contas de órgãos federais, avaliações de programas federais, entre outros. |
+*Formato* |PDF |
+*Url*     | http://auditoria.cgu.gov.br/public/relatorio/consultar.jsf?windowId=9db |
+*Dicas*   |É possível baixar um ou mais arquivos ou exportar a lista de resultados em formato csv. |
+*Projetos usando* | |
 
 ---
 
