@@ -126,8 +126,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Proposituras da Câmara Municipal de Campina Grande, PB
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Dados sobre proposituras dos vereadores, incluindo o que foi proposto, a categoria da propositura, o tema e alguns dados demográficos dos vereadores.  |
 *Formato* | Banco postgres + crawler |
 *Url*     | Os dados estão [nesse repo](https://github.com/augustoqm/cg-insights-data) e o crawler [nesse outro](https://github.com/augustoqm/cg-insights-data-gen)  |
@@ -150,8 +150,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Despesas – Transferências para Estados, Municípios ou entidades privadas – Portal da Transparência
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Transferências de recursos federais, constitucionais, legais ou voluntárias, para estados, municípios, Distrito Federal, instituições privadas com e sem fins lucrativos e ao exterior, realizados pelos órgãos e entidades da Administração Pública Federal, que executam as despesas pelo Sistema Integrado de Administração Financeira do Governo Federal (Siafi). |
 *Formato* | CSV |
 *Url*     | http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=Transferencias#meses04|
@@ -161,8 +161,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Despesas – Gastos Diretos do Governo Federal – Portal da Transparência
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Pagamentos para aquisição e contratação de obras e compras governamentais, dentre outros, realizados pelos órgãos e entidades da Administração Pública Federal, que executam as despesas pelo Sistema Integrado de Administração Financeira do Governo Federal (Siafi). Dados disponibilizados no Portal da Transparência |
 *Formato* | CSV |
 *Url*     | http://www.portaltransparencia.gov.br/downloads/mensal.asp?c=GastosDiretos |
@@ -172,8 +172,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Servidores Civis e Militares do Executivo Federal
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Informações sobre cargo, função, situação funcional e remuneração dos servidores civis e militares, bem como dos agentes públicos do Poder Executivo Federal. |
 *Formato* | CSV |
 *Url*     | http://www.portaltransparencia.gov.br/downloads/servidores.asp |
@@ -183,8 +183,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Dirigentes de Empresas
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Informações sobre ocupantes de cargos de gerência e direção em empresas estatais e subsidiárias. |
 *Formato* | CSV |
 *Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=Dirigentes |
@@ -194,8 +194,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Transferências Programas Sociais Bolsa Família
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Informações sobre as transferências de recursos federais diretamente repassados a cidadãos, referentes ao pagamento do Bolsa Família, realizadas pelo Ministério do Desenvolvimento Social, por meio da Caixa Econômica Federal. |
 *Formato* | CSV |
 *Url*     | http://www.portaldatransparencia.gov.br/downloads/mensal.asp?c=BolsaFamiliaFolhaPagamento |
@@ -205,8 +205,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Pedidos e Respostas do e-SIC
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Base de dados dos pedidos e respostas realizados no Poder Executivo Federal, por meio do e-SIC, com base na Lei de Acesso à Informação.|
 *Formato* | CSV e XML |
 *Url*     | http://www.consultaesic.cgu.gov.br/busca/_layouts/15/DownloadPedidos/DownloadDados.aspx |
@@ -216,8 +216,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Webservice do e-OUV
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* |Webservice para registro e consulta de manifestações de ouvidoria (denúncias, reclamações, sugestões etc.) direcionadas às ouvidorias do governo federal, incluindo a Ouvidoria-Geral da União da CGU.|
 *Formato* | |
 *Url*     | [Neste link](etc/e-ouv---documentacao-webservices.docx) |
@@ -227,8 +227,8 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Relatórios da CGU
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Relatórios de fiscalização em estados e municípios, auditorias anuais de contas de órgãos federais, avaliações de programas federais, entre outros. |
 *Formato* |PDF |
 *Url*     | http://auditoria.cgu.gov.br/public/relatorio/consultar.jsf?windowId=9db |
