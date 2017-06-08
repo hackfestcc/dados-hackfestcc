@@ -13,6 +13,13 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
   * [Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016](#candidatos-seus-bens-e-as-doações-que-eles-receberam-nas-eleições-de-2012-2014-e-2016)
   * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municípios-e-estados-e-universidades-institutos--via-convênios)
   * [Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB](#prefeitos-da-pb-com-contas-julgadas-irregulares-entre-2008-e-2016-pelo-tce-pb)
+<<<<<<< HEAD
+  * [Proposituras da Câmara Municipal de Campina Grande, PB](#proposituras-da-camara-municipal-de-campina-grande-pb)
+- [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-nao-foram-usados-por-nos)
+  * [Nuvem Cívica](#nuvem-civica)
+  * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joao-pessoa)
+  * [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidoneas-e-suspensas-ceis)
+=======
   * [Proposituras da Câmara Municipal de Campina Grande, PB](#proposituras-da-câmara-municipal-de-campina-grande-pb)
 - [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
   * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joão-pessoa)
@@ -25,6 +32,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
   * [Webservice do e-OUV](#webservice-do-e-ouv)
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidôneas-e-suspensas-ceis)
+>>>>>>> c45a90019f6ca87cf48757b00d3777fd4ea35f21
   * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
   * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
@@ -137,6 +145,18 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ## Aparentemente prontos, mas não foram usados por nós
+
+### Nuvem Cívica
+?    | ! |
+ --- | --|
+*O que é* | API de acesso para diversas fontes de dados abertos governamentais.|
+*Formato* | API REST (json) |
+*Url*     | https://github.com/AppCivicoPlataforma/AppCivico |
+*Dicas*   | Tem informações georreferênciadas sobre escolas e estabelecimentos de saúde públicos/privados do país (coletados através do DATA SUS e INEP). Há tembém informações sobre os remédios fabricados no Brasil (ANVISA). Além disso, há API para consulta de postos do Site Nacional de Empregos (SINE)|
+*Projetos usando* |  |
+
+---
+
 
 ### Dados abertos da prefeitura de João Pessoa
 ?    | ! |
