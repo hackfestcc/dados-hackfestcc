@@ -6,6 +6,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 
 - [Prontos e já usados](#prontos-e-já-usados)
     + [Receitas, licitações e despesas de municípios e estado da PB](#receitas-licitações-e-despesas-de-municípios-e-estado-da-pb)
+    + [Site oficial de dados abertos do TCE-PB](#site-oficial-de-dados-abertos-do-tce-pb)
   * [Presenças, votações e votos dos deputados federais na câmara](#presenças-votações-e-votos-dos-deputados-federais-na-câmara)
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
   * [Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais](#gastos-da-cota-para-exercício-da-atividade-parlamentar-dos-deputados-federais)
@@ -55,12 +56,12 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 ---
 
 ### Site oficial de dados abertos do TCE-PB
-     ?    | ! |
-      --- | --|
+?    | ! |
+ --- | --|
 *O que é* | Exportação bruta de dados de várias tabelas do SAGRES Municipal e Estadual e outros sistemas do TCE-PB. |
 *Formato* | Arquivos textuais comprimidos. Valores separados pelo caracter "pipe". |
 *Url*     | https://portal.tce.pb.gov.br/dados-abertos-do-sagres-tcepb/ |
-*Dicas*   | Tabelas presentes da esfera municipal: Receita Orçamentária, Empenhos, Pagamentos, Estornos, Folha de Pessoal, Licitação, Participantes de Licitação, Propostas de Licitação; Esfera estadual: Receita Orçamentária, Empenhos, Folha de Pessoal. |
+*Dicas*   | Tabelas presentes da esfera municipal: Receita Orçamentária, Empenhos, Pagamentos, Estornos, Folha de Pessoal, Licitação, Participantes de Licitação, Propostas de Licitação, Obras; Esfera estadual: Receita Orçamentária, Empenhos, Folha de Pessoal. |
 *Projetos usando* |  |
 
 ---
