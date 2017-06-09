@@ -61,7 +61,7 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *O que é* | Exportação bruta de dados de várias tabelas do SAGRES Municipal e Estadual e outros sistemas do TCE-PB. |
 *Formato* | Arquivos textuais comprimidos. Valores separados pelo caracter "pipe". |
 *Url*     | https://portal.tce.pb.gov.br/dados-abertos-do-sagres-tcepb/ |
-*Dicas*   | Tabelas presentes da esfera municipal: Receita Orçamentária, Empenhos, Pagamentos, Estornos, Folha de Pessoal, Licitação, Participantes de Licitação, Propostas de Licitação; Esfera estadual: Receita Orçamentária, Empenhos, Folha de Pessoal. |
+*Dicas*   | Tabelas presentes da esfera municipal: Receita Orçamentária, Empenhos, Pagamentos, Estornos, Folha de Pessoal, Licitação, Participantes de Licitação, Propostas de Licitação, Obras; Esfera estadual: Receita Orçamentária, Empenhos, Folha de Pessoal. |
 *Projetos usando* |  |
 
 ---
